@@ -3,7 +3,7 @@
 
  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anderssom05@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-silva-7a545aa3/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
  [![YOUTUBE]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/youtube/likes/:videoId
-))](anderssom05@gmail.com)()
+))](youtube.com)()
 
 ![Andessom GitHub stats](https://github-readme-stats.vercel.app/api?username=anderssom&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderssom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
