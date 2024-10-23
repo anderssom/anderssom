@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderssom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
-                           tecnologias Que Eu Uso No Meu Dia a Dia
+                           tecnologias Que Eu Uso No Meu Dia a Dia🚀
   
   
   
