@@ -37,6 +37,10 @@
 
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 
+                               ⚙️ orm
+
+![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
+
                                ⚡ base de Bados
 
 
@@ -48,6 +52,3 @@
 
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![]()
 
-                               ⚙️ orm
-
-![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
